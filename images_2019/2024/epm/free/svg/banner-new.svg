@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="47px" height="21.045454px" viewBox="0 0 47 21.045454" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>矩形</title>
+    <defs>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#FF9000" offset="0%"></stop>
+            <stop stop-color="#FF5700" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="阶段二初稿设计" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="epm-free-最后优化版本" transform="translate(-635.000000, -551.522461)" fill="url(#linearGradient-1)">
+            <g id="编组-8" transform="translate(635.000000, 551.522461)">
+                <path d="M47,4.19953616 C47,4.19953616 47,8.41498971 47,16.8458968 C47,19.1652531 45.209162,21.045454 43,21.045454 C43,21.045454 31.3333333,21.045454 8,21.045454 C5.79088,21.045454 4,19.1652531 4,16.8458968 C4,16.8458968 2.66666667,14.9049725 0,11.0231241 L4,4.19953616 C4,1.88020086 5.79088,0 8,0 C8,0 19.6666667,0 43,0 C45.20912,0 47,1.88020086 47,4.19953616 Z" id="矩形"></path>
+            </g>
+        </g>
+    </g>
+</svg>
