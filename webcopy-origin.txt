@@ -1,0 +1,676 @@
+Uri: https://www.easeus.com/campaign/js/up.js
+File Name: C:\Downloaded Web Sites\www.easeus.com\campaign\js\up.js
+Content Type: application/javascript
+
+Uri: https://www.easeus.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Downloaded Web Sites\www.easeus.com\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://www.easeus.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
+File Name: C:\Downloaded Web Sites\www.easeus.com\cdn-cgi\scripts\7d0fa10a\cloudflare-static\rocket-loader.min.js
+Content Type: application/javascript
+
+Uri: https://www.easeus.com/default/js/globle.js?10
+File Name: C:\Downloaded Web Sites\www.easeus.com\default\js\globle.js
+Content Type: application/javascript
+
+Uri: https://www.easeus.com/default/js/jquery.js?10
+File Name: C:\Downloaded Web Sites\www.easeus.com\default\js\jquery.js
+Content Type: application/javascript
+
+Uri: https://www.easeus.com/default/js/other.js?10
+File Name: C:\Downloaded Web Sites\www.easeus.com\default\js\other.js
+Content Type: application/javascript
+
+Uri: https://www.easeus.com/default2/2019/css/article/article.css
+File Name: C:\Downloaded Web Sites\www.easeus.com\default2\2019\css\article\article.css
+Content Type: text/css
+
+Uri: https://www.easeus.com/default2/2019/css/article/swiper-bundle.min.css
+File Name: C:\Downloaded Web Sites\www.easeus.com\default2\2019\css\article\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://www.easeus.com/default2/2019/css/globle_button.css
+File Name: C:\Downloaded Web Sites\www.easeus.com\default2\2019\css\globle_button.css
+Content Type: text/css
+
+Uri: https://www.easeus.com/default2/2019/css/product_related.css
+File Name: C:\Downloaded Web Sites\www.easeus.com\default2\2019\css\product_related.css
+Content Type: text/css
+
+Uri: https://www.easeus.com/default2/2022/css/globle_pruduct.css?10
+File Name: C:\Downloaded Web Sites\www.easeus.com\default2\2022\css\globle_pruduct.css
+Content Type: text/css
+
+Uri: https://www.easeus.com/default2/css/base.css?10
+File Name: C:\Downloaded Web Sites\www.easeus.com\default2\css\base.css
+Content Type: text/css
+
+Uri: https://www.easeus.com/default2/css/base_2021.css?10
+File Name: C:\Downloaded Web Sites\www.easeus.com\default2\css\base_2021.css
+Content Type: text/css
+
+Uri: https://www.easeus.com/images/en/screenshot/partition-manager/disk-clone-feature.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images\en\screenshot\partition-manager\disk-clone-feature.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images/en/screenshot/partition-manager/partition-clone-feature.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images\en\screenshot\partition-manager\partition-clone-feature.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images/en/screenshot/partition-manager/screenshots/copy-disk-1.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images\en\screenshot\partition-manager\screenshots\copy-disk-1.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images/en/screenshot/partition-manager/screenshots/copy-disk-2.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images\en\screenshot\partition-manager\screenshots\copy-disk-2.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images/en/screenshot/partition-manager/screenshots/copy-disk-4.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images\en\screenshot\partition-manager\screenshots\copy-disk-4.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images/en/screenshot/partition-manager/system-clone-feature.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images\en\screenshot\partition-manager\system-clone-feature.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images/fav.ico
+File Name: C:\Downloaded Web Sites\www.easeus.com\images\fav.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://www.easeus.com/images_2016/fav.ico
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2016\fav.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://www.easeus.com/images_2019/2024/epm/free/banner-bg.jpg
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\2024\epm\free\banner-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.easeus.com/images_2019/2024/epm/free/banner-pic-1.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\2024\epm\free\banner-pic-1.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/2024/epm/free/banner-pic-2.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\2024\epm\free\banner-pic-2.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/2024/epm/free/banner/banner.png?v=1
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\2024\epm\free\banner\banner.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/2024/epm/free/guide-bg.jpg
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\2024\epm\free\guide-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.easeus.com/images_2019/2024/epm/free/mode1-bg1.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\2024\epm\free\mode1-bg1.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/2024/epm/free/mode1-bg2.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\2024\epm\free\mode1-bg2.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/2024/epm/free/mode1-bg3.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\2024\epm\free\mode1-bg3.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/2024/epm/free/mode1-bg4.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\2024\epm\free\mode1-bg4.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/2024/epm/free/price-top.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\2024\epm\free\price-top.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/2024/epm/free/svg/banner-new.svg
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\2024\epm\free\svg\banner-new.svg
+Content Type: image/svg+xml
+
+Uri: https://www.easeus.com/images_2019/2024/epm/free/svg/price-no.svg
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\2024\epm\free\svg\price-no.svg
+Content Type: image/svg+xml
+
+Uri: https://www.easeus.com/images_2019/2024/epm/free/svg/price-ok.svg
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\2024\epm\free\svg\price-ok.svg
+Content Type: image/svg+xml
+
+Uri: https://www.easeus.com/images_2019/2024/epm/tech/banner-bg.jpg
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\2024\epm\tech\banner-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.easeus.com/images_2019/2024/epm/tech/banner-chat.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\2024\epm\tech\banner-chat.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/2024/epm/tech/banner-video1.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\2024\epm\tech\banner-video1.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/2024/epm/tech/chat-ico-1.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\2024\epm\tech\chat-ico-1.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/2024/epm/tech/chat-ico-2.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\2024\epm\tech\chat-ico-2.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/2024/epm/tech/chat-ico-3.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\2024\epm\tech\chat-ico-3.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/2024/epm/tech/chat-pic1.jpg
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\2024\epm\tech\chat-pic1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.easeus.com/images_2019/2024/epm/tech/eff-bg1.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\2024\epm\tech\eff-bg1.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/2024/epm/tech/pic-4.jpg
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\2024\epm\tech\pic-4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.easeus.com/images_2019/2024/epm/tech/pic-5.jpg
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\2024\epm\tech\pic-5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.easeus.com/images_2019/2024/epm/tech/pic-6.jpg
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\2024\epm\tech\pic-6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.easeus.com/images_2019/2024/epm/tech/pic-7.jpg
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\2024\epm\tech\pic-7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.easeus.com/images_2019/2024/epm/tech/portable-bg.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\2024\epm\tech\portable-bg.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/2024/epm/tech/review-bg.jpg
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\2024\epm\tech\review-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.easeus.com/images_2019/2024/epm/tech/review-logo-1.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\2024\epm\tech\review-logo-1.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/2024/epm/tech/review-logo-2.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\2024\epm\tech\review-logo-2.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/2024/epm/tech/review-logo-3.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\2024\epm\tech\review-logo-3.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/2024/epm/tech/review-logo-4.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\2024\epm\tech\review-logo-4.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/2024/epm/tech/review-logo-5.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\2024\epm\tech\review-logo-5.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/2024/epm/tech/review-pic.jpg
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\2024\epm\tech\review-pic.jpg
+Content Type: image/jpeg
+
+Uri: https://www.easeus.com/images_2019/2024/epm/tech/top-1.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\2024\epm\tech\top-1.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/2024/epm/tech/top-2.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\2024\epm\tech\top-2.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/2024/epm/tech/top-3.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\2024\epm\tech\top-3.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/2024/epm/tech/top-bg.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\2024\epm\tech\top-bg.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/2025/buy/5-29/01.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\2025\buy\5-29\01.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/2025/buy/5-29/02.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\2025\buy\5-29\02.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/2025/buy/5-29/yh.svg
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\2025\buy\5-29\yh.svg
+Content Type: image/svg+xml
+
+Uri: https://www.easeus.com/images_2019/2025/campaign/6-16/new5/mode1-11hover.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\2025\campaign\6-16\new5\mode1-11hover.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/2025/campaign/6-16/new5/mode1-12hover.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\2025\campaign\6-16\new5\mode1-12hover.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/article/2021/12/epmpct-icon02-20211208.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\article\2021\12\epmpct-icon02-20211208.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/article/830/drw-icon-play-20210827.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\article\830\drw-icon-play-20210827.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/article/830/drw-icon-play-hover-20210827.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\article\830\drw-icon-play-hover-20210827.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/article/830/drw-image-1-common-20210827.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\article\830\drw-image-1-common-20210827.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/article/830/drw-image-1-hover-20210827.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\article\830\drw-image-1-hover-20210827.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/article/830/drw-image-2-common-20210827.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\article\830\drw-image-2-common-20210827.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/article/830/drw-image-2-hover-20210827.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\article\830\drw-image-2-hover-20210827.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/article/830/drw-image-3-common-20210827.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\article\830\drw-image-3-common-20210827.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/article/830/drw-image-3-hover-20210827.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\article\830\drw-image-3-hover-20210827.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/article/icon-menu.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\article\icon-menu.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/article/video_bo_bg.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\article\video_bo_bg.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/basic_img/faq-icon1.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\basic_img\faq-icon1.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/basic_img/faq_icon2.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\basic_img\faq_icon2.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/buy/2024/1-5/mebu-1.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\buy\2024\1-5\mebu-1.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/buy/2024/1-5/mebu-4.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\buy\2024\1-5\mebu-4.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/buy/2024/1-5/off-bg.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\buy\2024\1-5\off-bg.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/buy/2024/1-5/time-pic.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\buy\2024\1-5\time-pic.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/buy/2024/10-11/ico1.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\buy\2024\10-11\ico1.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/buy/2024/10-11/ico3.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\buy\2024\10-11\ico3.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/buy/2024/10-11/img1.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\buy\2024\10-11\img1.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/buy/2024/10-11/img2.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\buy\2024\10-11\img2.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/buy/2024/10-11/img3.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\buy\2024\10-11\img3.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/buy/2024/10-11/img4.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\buy\2024\10-11\img4.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/buy/2024/10-11/img5.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\buy\2024\10-11\img5.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/buy/2024/10-11/img6.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\buy\2024\10-11\img6.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/buy/all-in/top-pic.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\buy\all-in\top-pic.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/drw/2022/pro/first.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\drw\2022\pro\first.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/epm/2022/epm_pro/banner_bg.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\epm\2022\epm_pro\banner_bg.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/epm/2022/epm_pro/epm-pic-01.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\epm\2022\epm_pro\epm-pic-01.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/epm/2022/epm_pro/epm-pic-02.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\epm\2022\epm_pro\epm-pic-02.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/epm/2022/epm_pro/new/1.1.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\epm\2022\epm_pro\new\1.1.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/epm/2022/epm_pro/new/1.10.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\epm\2022\epm_pro\new\1.10.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/epm/2022/epm_pro/new/1.2.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\epm\2022\epm_pro\new\1.2.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/epm/2022/epm_pro/new/1.3.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\epm\2022\epm_pro\new\1.3.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/epm/2022/epm_pro/new/1.4.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\epm\2022\epm_pro\new\1.4.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/epm/2022/epm_pro/new/1.5.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\epm\2022\epm_pro\new\1.5.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/epm/2022/epm_pro/new/1.6.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\epm\2022\epm_pro\new\1.6.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/epm/2022/epm_pro/new/1.7.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\epm\2022\epm_pro\new\1.7.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/epm/2022/epm_pro/new/1.8.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\epm\2022\epm_pro\new\1.8.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/epm/2022/epm_pro/new/1.9.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\epm\2022\epm_pro\new\1.9.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/epm/2022/epm_pro/new/close.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\epm\2022\epm_pro\new\close.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/epm/2022/new/epm-history-banner-bg-20230310.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\epm\2022\new\epm-history-banner-bg-20230310.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/epm/free/2022/add.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\epm\free\2022\add.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/epm/free/2022/guide-bg.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\epm\free\2022\guide-bg.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/epm/free/2022/windows11-bg-1.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\epm\free\2022\windows11-bg-1.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/epm/free/2022/windows11-bg-2.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\epm\free\2022\windows11-bg-2.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/ggtp_img/epm-tc-bg-20230425.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\ggtp_img\epm-tc-bg-20230425.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/ggtp_img/icon-bg-20230414.svg
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\ggtp_img\icon-bg-20230414.svg
+Content Type: image/svg+xml
+
+Uri: https://www.easeus.com/images_2019/ggtp_img/pop/bg.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\ggtp_img\pop\bg.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/ggtp_img/pop/icon-1.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\ggtp_img\pop\icon-1.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/ggtp_img/pop/icon-3.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\ggtp_img\pop\icon-3.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/ggtp_img/pop/icon-epm.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\ggtp_img\pop\icon-epm.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/ggtp_img/pop/scrore.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\ggtp_img\pop\scrore.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/index/header_2022/logo_black.svg
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\index\header_2022\logo_black.svg
+Content Type: image/svg+xml
+
+Uri: https://www.easeus.com/images_2019/partition-manager/2023/9-22/pic-1.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\partition-manager\2023\9-22\pic-1.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/partition-manager/2023/9-22/pic-2.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\partition-manager\2023\9-22\pic-2.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/partition-manager/2023/9-22/pic-3.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\partition-manager\2023\9-22\pic-3.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/partition-manager/2023/9-22/pic-4.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\partition-manager\2023\9-22\pic-4.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/partition-manager/2023/9-22/pic-5.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\partition-manager\2023\9-22\pic-5.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/partition-manager/2023/9-22/pic-6.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\partition-manager\2023\9-22\pic-6.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/partition-manager/2023/9-22/pic-7.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\partition-manager\2023\9-22\pic-7.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/partition-manager/2023/9-22/pic-8.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\partition-manager\2023\9-22\pic-8.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/partition-manager/2023/9-22/pic-9.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\partition-manager\2023\9-22\pic-9.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/partition-manager/2024/9-12/section8-bottom.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\partition-manager\2024\9-12\section8-bottom.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/partition-manager/2024/9-19/banner1.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\partition-manager\2024\9-19\banner1.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/partition-manager/2024/9-19/banner2.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\partition-manager\2024\9-19\banner2.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/partition-manager/2024/9-19/banner3.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\partition-manager\2024\9-19\banner3.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/partition-manager/2024/9-19/bg.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\partition-manager\2024\9-19\bg.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/partition-manager/2024/9-19/model5-how-bg.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\partition-manager\2024\9-19\model5-how-bg.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/partition-manager/index/2022/allinone-bg.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\partition-manager\index\2022\allinone-bg.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/partition-manager/index/2022/banner1-bg.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\partition-manager\index\2022\banner1-bg.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/partition-manager/index/2022/cpm-bg.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\partition-manager\index\2022\cpm-bg.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/partition-manager/index/2022/cpm-icon-1.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\partition-manager\index\2022\cpm-icon-1.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/partition-manager/index/2022/cpm-icon-2.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\partition-manager\index\2022\cpm-icon-2.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/partition-manager/tech/2022/ok.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\partition-manager\tech\2022\ok.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/product/all_icon/partitionmanager.svg
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\product\all_icon\partitionmanager.svg
+Content Type: image/svg+xml
+
+Uri: https://www.easeus.com/images_2019/tb/free/2022/banner_title.png
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\tb\free\2022\banner_title.png
+Content Type: image/png
+
+Uri: https://www.easeus.com/images_2019/tb/free/2022/icon-time.svg
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\tb\free\2022\icon-time.svg
+Content Type: image/svg+xml
+
+Uri: https://www.easeus.com/images_2019/tb/home/2022/icon-arrow.svg
+File Name: C:\Downloaded Web Sites\www.easeus.com\images_2019\tb\home\2022\icon-arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://www.easeus.com/partition-manager/
+File Name: C:\Downloaded Web Sites\www.easeus.com\partition-manager\index.htm
+Content Type: text/html
+
+Uri: https://www.easeus.com/partition-manager/comparison.html
+File Name: C:\Downloaded Web Sites\www.easeus.com\partition-manager\comparison.html
+Content Type: text/html
+
+Uri: https://www.easeus.com/partition-manager/disk-partition-manager-for-mac-buy.html?linkid=e_epmfree_banner&version=mac
+File Name: C:\Downloaded Web Sites\www.easeus.com\partition-manager\disk-partition-manager-for-mac-buy.html
+Content Type: text/html
+
+Uri: https://www.easeus.com/partition-manager/disk-partition-manager-for-mac-buy.html?linkid=e_epmp_old_banner&version=mac
+File Name: C:\Downloaded Web Sites\www.easeus.com\partition-manager\disk-partition-manager-for-mac-buy-2.html
+Content Type: text/html
+
+Uri: https://www.easeus.com/partition-manager/disk-partition-manager-for-mac-buy.html?linkid=e_epm_mac
+File Name: C:\Downloaded Web Sites\www.easeus.com\partition-manager\disk-partition-manager-for-mac-buy-1.html
+Content Type: text/html
+
+Uri: https://www.easeus.com/partition-manager/disk-partition-manager-for-mac.html
+File Name: C:\Downloaded Web Sites\www.easeus.com\partition-manager\disk-partition-manager-for-mac.html
+Content Type: text/html
+
+Uri: https://www.easeus.com/partition-manager/epm-enterprise.html
+File Name: C:\Downloaded Web Sites\www.easeus.com\partition-manager\epm-enterprise.html
+Content Type: text/html
+
+Uri: https://www.easeus.com/partition-manager/epm-free.html
+File Name: C:\Downloaded Web Sites\www.easeus.com\partition-manager\epm-free-1.html
+Content Type: text/html
+
+Uri: https://www.easeus.com/partition-manager/epm-free.html?srsltid=AfmBOopmj059DGlPgtedoQGlS0ay8FiV1a13_TX5dzbgVHWyJIvBgNMo
+File Name: C:\Downloaded Web Sites\www.easeus.com\partition-manager\epm-free.html
+Content Type: text/html
+
+Uri: https://www.easeus.com/partition-manager/epm-pro-buy.html
+File Name: C:\Downloaded Web Sites\www.easeus.com\partition-manager\epm-pro-buy-9.html
+Content Type: text/html
+
+Uri: https://www.easeus.com/partition-manager/epm-pro-buy.html?linkid=e_epmfree
+File Name: C:\Downloaded Web Sites\www.easeus.com\partition-manager\epm-pro-buy-10.html
+Content Type: text/html
+
+Uri: https://www.easeus.com/partition-manager/epm-pro-buy.html?linkid=e_epmfree_banner
+File Name: C:\Downloaded Web Sites\www.easeus.com\partition-manager\epm-pro-buy-1.html
+Content Type: text/html
+
+Uri: https://www.easeus.com/partition-manager/epm-pro-buy.html?linkid=e_epmfree_comp
+File Name: C:\Downloaded Web Sites\www.easeus.com\partition-manager\epm-pro-buy-2.html
+Content Type: text/html
+
+Uri: https://www.easeus.com/partition-manager/epm-pro-buy.html?linkid=e_epmfree_float
+File Name: C:\Downloaded Web Sites\www.easeus.com\partition-manager\epm-pro-buy.html
+Content Type: text/html
+
+Uri: https://www.easeus.com/partition-manager/epm-pro-buy.html?linkid=e_epmhistory
+File Name: C:\Downloaded Web Sites\www.easeus.com\partition-manager\epm-pro-buy-11.html
+Content Type: text/html
+
+Uri: https://www.easeus.com/partition-manager/epm-pro-buy.html?linkid=e_epmhistoy
+File Name: C:\Downloaded Web Sites\www.easeus.com\partition-manager\epm-pro-buy-12.html
+Content Type: text/html
+
+Uri: https://www.easeus.com/partition-manager/epm-pro-buy.html?linkid=e_epmp_comparison_old
+File Name: C:\Downloaded Web Sites\www.easeus.com\partition-manager\epm-pro-buy-8.html
+Content Type: text/html
+
+Uri: https://www.easeus.com/partition-manager/epm-pro-buy.html?linkid=e_epmp_old_banner
+File Name: C:\Downloaded Web Sites\www.easeus.com\partition-manager\epm-pro-buy-4.html
+Content Type: text/html
+
+Uri: https://www.easeus.com/partition-manager/epm-pro-buy.html?linkid=e_epmp_old_content_2ndssd
+File Name: C:\Downloaded Web Sites\www.easeus.com\partition-manager\epm-pro-buy-5.html
+Content Type: text/html
+
+Uri: https://www.easeus.com/partition-manager/epm-pro-buy.html?linkid=e_epmp_old_content_3rdissues
+File Name: C:\Downloaded Web Sites\www.easeus.com\partition-manager\epm-pro-buy-6.html
+Content Type: text/html
+
+Uri: https://www.easeus.com/partition-manager/epm-pro-buy.html?linkid=e_epmp_old_content_4thupgrade
+File Name: C:\Downloaded Web Sites\www.easeus.com\partition-manager\epm-pro-buy-7.html
+Content Type: text/html
+
+Uri: https://www.easeus.com/partition-manager/epm-pro-buy.html?linkid=e_epmp_old_float
+File Name: C:\Downloaded Web Sites\www.easeus.com\partition-manager\epm-pro-buy-3.html
+Content Type: text/html
+
+Uri: https://www.easeus.com/partition-manager/epm-pro.html
+File Name: C:\Downloaded Web Sites\www.easeus.com\partition-manager\epm-pro.html
+Content Type: text/html
+
+Uri: https://www.easeus.com/partition-manager/free-disk-cloning-software.html
+File Name: C:\Downloaded Web Sites\www.easeus.com\partition-manager\free-disk-cloning-software.html
+Content Type: text/html
+
+Uri: https://www.easeus.com/partition-manager/history.html
+File Name: C:\Downloaded Web Sites\www.easeus.com\partition-manager\history.html
+Content Type: text/html
+
+Uri: https://www.easeus.com/partition-manager/windows-boot-rescuer-buy.html?linkid=e_winrescue
+File Name: C:\Downloaded Web Sites\www.easeus.com\partition-manager\windows-boot-rescuer-buy.html
+Content Type: text/html
+
+Uri: https://www.easeus.com/partition-manager/windows-boot-rescuer.html
+File Name: C:\Downloaded Web Sites\www.easeus.com\partition-manager\windows-boot-rescuer.html
+Content Type: text/html
+
